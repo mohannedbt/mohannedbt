@@ -19,8 +19,7 @@ Driven by curiosity and purpose, I enjoy exploring tech across many domains — 
 - 🛒 **Collaborating on E-Commerce Platform**  
   _Handling API logic, database structure, and contribution to UI_
 
-along side other project you can find here ;)
----
+- along side other projects you can find here ;)
 
 ## 📌 Goals & Interests
 
