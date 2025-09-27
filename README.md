@@ -5,7 +5,7 @@ Driven by curiosity and purpose, I enjoy exploring tech across many domains — 
 
 ---
 
-## 💡 What I'm Working On
+## 💡 What I'm Worked/Working on
 
 - 🔗 **ChatApp** – Real-time chat app  
   _Deployed on [Render](https://chat-nights.onrender.com/)_
