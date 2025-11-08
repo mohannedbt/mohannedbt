@@ -1,4 +1,4 @@
-# 👋 Hi, I'm xxxxxx — a Learning-Driven Developer 🚀
+# 👋 Hi, I'm mohanned — a Learning-Driven Developer 🚀
 
 I love building **real-world projects** and turning ideas into reality.  
 Currently diving into **AI, Data Analysis, and Web Development** 🌐.
@@ -37,6 +37,6 @@ Currently diving into **AI, Data Analysis, and Web Development** 🌐.
 ## 📫 Connect with me
 
 - [GitHub](https://github.com/xxxx)  
-- [LinkedIn](https://www.linkedin.com/in/xxxxx-831919312/)  
+- [LinkedIn](https://www.linkedin.com/in/mohanned-831919312/)  
 
 > _"Keep building, keep learning."_ 🔁
