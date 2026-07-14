@@ -10,12 +10,12 @@
 
 ---
 
-### // PROFILE
+### PROFILE
 **Focus:** Artificial Intelligence, Mathematical Modeling, & Full-Stack Development  
 **Mission:** Engineering scalable ML architectures and robust digital infrastructures.  
 **Philosophy:** Rigorous logic, elegant solutions, optimal performance.
 
-### // TECH_STACK
+### TECH_STACK
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@
 
 <br/>
 
-### // DEPLOYED_ARCHITECTURES
+### DEPLOYED_ARCHITECTURES
 
 | REPOSITORY | DESCRIPTION | TECH_STACK |
 |---|---|---|
@@ -37,22 +37,22 @@
 
 ---
 
-### // SYSTEM_METRICS
+### SYSTEM_METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohannedbt&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mohannedbt&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannedbt&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohannedbt&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mohannedbt&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
 
-### // NETWORK_NODES
+### NETWORK_NODES
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohanned-831919312/">
