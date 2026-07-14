@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=MOHANNED_&fontSize=50&fontColor=00FF00&animation=fadeIn&desc=AI%20%26%20Data%20Engineer&descAlignY=70&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=MOHANNED_&fontSize=50&fontColor=00FF00&animation=fadeIn&desc=AI%20%26amp;%20Data%20Engineer&descAlignY=70&descAlign=50" />
 </div>
 
 <br/>
@@ -55,7 +55,7 @@
 ### NETWORK_NODES
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohanned-831919312/">
+  <a href="https://www.linkedin.com/in/mohanned-ben-taleb-831919312/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mohannedbt">
