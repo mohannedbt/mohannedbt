@@ -1,107 +1,97 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,100:0a1120&height=180&section=header&text=MOHANNED%20BEN%20TALEB&fontSize=42&fontColor=00E5C9&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Engineer%20-%20Building%20Systems%20That%20Learn&descAlignY=58&descSize=16&descColor=7C6BFF" width="100%"/>
-</div>
+**MB.**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=760&lines=Training+neural+networks+on+real-world+data...;Designing+RAG+pipelines+and+semantic+search...;Shipping+scalable+ML+%2B+backend+systems...;model.eval()+%E2%80%94+ready+for+production." alt="Typing SVG" />
-</div>
+[Skills](#skills)[Projects](#projects)[Contact](#contact)
 
-<br/>
+Open to part-time / remote work
 
-<!-- ================= ANIMATED NEURAL NETWORK ================= -->
-<div align="center">
-  <img src="./assets/neural-network.svg" width="100%" alt="Animated neural network — signal propagation across layers"/>
-</div>
+# Mohanned Bentaleb
 
-<p align="center">
-  <sub>⚡ Live SVG animation — signals actually fire and propagate left → right across the network, no GIF involved.</sub>
-</p>
+**Backend & Data Engineer.** Software engineering student at INSAT, Tunis. I build APIs, data pipelines and real-time features, and I like understanding ML from the inside.
 
-<div align="center">
-  <img src="./assets/data-divider.svg" width="100%" alt="divider"/>
-</div>
+[GitHub](https://github.com/mohannedbt) [LinkedIn](https://www.linkedin.com/in/mohanned-ben-taleb-831919312/) [Email me](mailto:mohanned.bentaleb@insat.ucar.tn)
 
-### 🧠 PROFILE
+**2nd place**AINS 4.0 hackathon, June 2026
 
-```yaml
-role:        AI / Data Engineer
-focus:       [Machine Learning, NLP, Mathematical Modeling, Full-Stack Systems]
-mission:     Engineering scalable ML architectures and robust digital infrastructure
-philosophy:  rigorous logic → elegant abstractions → optimal performance
-status:      probably training something right now
-```
+**Data engineering intern**E-tafakna, LegalTech, summer 2026
 
-<div align="center">
-  <img src="./assets/data-divider.svg" width="100%" alt="divider"/>
-</div>
+**Poster**AI National Summit 4.0 (AAM)
 
-### 🛰️ TECH STACK
+## What I work with
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,ts,nodejs,mongodb,react,html,css,git,csharp,java,docker,aws&theme=dark" />
-</div>
+### Languages
 
-<br/>
+PythonTypeScriptJavaScriptSQLC/C++C#
 
-<div align="center">
+### Backend
 
-| Layer | Tools |
-|---|---|
-| **AI / ML** | Python · TensorFlow · PyTorch · scikit-learn · NLP / Embeddings |
-| **Backend** | FastAPI · Node.js · ASP.NET Core · Java |
-| **Frontend** | React · TypeScript · HTML/CSS |
-| **Data & Infra** | MongoDB · SQLite · Docker · AWS · Git |
+FastAPINestJSNode/ExpressASP.NET CoreRESTGraphQLWebSockets
 
-</div>
+### Data
 
-<div align="center">
-  <img src="./assets/data-divider.svg" width="100%" alt="divider"/>
-</div>
+PostgreSQLSQLiteRedisDagsterPlaywright
 
-### 🚀 DEPLOYED ARCHITECTURES
+### Tools
 
-| Repository | Description | Stack |
-|---|---|---|
-| [**creator-growth-lab**](https://github.com/mohannedbt/creator-growth-lab) | End-to-end analytics engine predicting growth drivers and performance. | `FastAPI` `ASP.NET Core` |
-| [**Behavior-Risk-Engine**](https://github.com/mohannedbt/Behavior-Risk-Engine) | Modular system for detecting coordinated automated behavior on social platforms. | `Python` `NLP` |
-| [**FakeNewsDetector**](https://github.com/mohannedbt/FakeNewsDetector) | Deep learning classifier leveraging embeddings to flag misinformation. | `Python` `ML` |
-| [**Archivist**](https://github.com/mohannedbt/Archivist) | Contextual document management system with RAG integration and semantic search. | `Python` `SQLite` |
-| [**Chat-nights**](https://github.com/mohannedbt/Chat-nights) | Real-time, horizontally-scalable chat infrastructure. | `Node.js` `WebSockets` |
+DockerDocker ComposeGitLinux
 
-<div align="center">
-  <img src="./assets/data-divider.svg" width="100%" alt="divider"/>
-</div>
+### ML (used in projects)
 
-### 📊 SYSTEM METRICS
+PyTorchscikit-learnsentence-transformersHDBSCANFAISS
 
-<div align="center">
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mohannedbt&show_icons=true&theme=radical&hide_border=true&bg_color=050810&title_color=00E5C9&text_color=C9D6E0&icon_color=7C6BFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohannedbt&theme=radical&hide_border=true&background=050810&ring=00E5C9&fire=7C6BFF&currStreakNum=C9D6E0&sideNums=C9D6E0&sideLabels=00E5C9&dates=C9D6E0" alt="GitHub Streak" width="48%" />
-</div>
+## Selected projects
 
-<div align="center">
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mohannedbt&layout=compact&theme=radical&hide_border=true&bg_color=050810&title_color=00E5C9&text_color=C9D6E0" alt="Top Languages" />
-</div>
+### Creator Growth Lab
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohannedbt&theme=react-dark&bg_color=050810&color=00E5C9&line=7C6BFF&point=C9D6E0&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
+Solo · FastAPI · ASP.NET Core · SQLite
 
-<div align="center">
-  <img src="./assets/data-divider.svg" width="100%" alt="divider"/>
-</div>
+YouTube analytics platform: API ingestion with caching, per-video KPIs, and topic clustering (embeddings + HDBSCAN) that scores each topic for momentum and fatigue.
 
-### 📡 NETWORK NODES
+[View on GitHub →](https://github.com/mohannedbt/creator-growth-lab)
 
-<div align="center">
-<a href="https://www.linkedin.com/in/mohanned-ben-taleb-831919312/">
-<img src="https://img.shields.io/badge/LinkedIn-050810?style=for-the-badge&logo=linkedin&logoColor=00E5C9" alt="LinkedIn" />
-</a>
-<a href="https://github.com/mohannedbt">
-<img src="https://img.shields.io/badge/GitHub-050810?style=for-the-badge&logo=github&logoColor=00E5C9" alt="GitHub" />
-</a>
-</div>
+### QueueFlow
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1120,100:050810&height=100&section=footer" width="100%"/>
-</div>
+Team of 4 · NestJS · Prisma · PostgreSQL · GraphQL
+
+Real-time interview queue. My slice: candidate join codes, the join flow, the queue state machine, GraphQL queries and the matching frontend.
+
+[View on GitHub →](https://github.com/yassine-krichen/queue-flow-backend)
+
+### Massar
+
+Hackathon, 2nd place · FastAPI · Docker
+
+Microservice system that turns an entrepreneur's project profile into a diagnosis, scores, blockers and a roadmap. I built the data collection and a decision-tree startup classifier.
+
+Repository: team-owned
+
+### Adaptive Attention Manager
+
+Team of 4 · Python · PyTorch
+
+Privacy-preserving cognitive-state inference from behavioral metadata. I worked on the keystroke-dynamics modality: features, proxy targets, model and dashboard.
+
+[View on GitHub →](https://github.com/PPP-Attention-Adaptive-Manager/Keyboard_Cognitive_load_analysis)
+
+### Behavior-Risk-Engine
+
+Python · NLP · anomaly detection
+
+Modular system for detecting coordinated and automated behavior in social media activity.
+
+[View on GitHub →](https://github.com/mohannedbt/Behavior-Risk-Engine)
+
+### AI From Scratch
+
+In progress · Python
+
+Learning how popular libraries work by re-implementing core algorithms myself.
+
+[View on GitHub →](https://github.com/mohannedbt/AI_From_Scratch)
+
+## Get in touch
+
+Looking for a part-time or remote backend / data role, or a small paid project. I'm happy to do a short trial task.
+
+[mohanned.bentaleb@insat.ucar.tn](mailto:mohanned.bentaleb@insat.ucar.tn)
+
+© 2026 Mohanned Bentaleb · Tunis, TunisiaBuilt with three.js
